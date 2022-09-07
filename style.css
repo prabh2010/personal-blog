@@ -1,0 +1,31 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travelmate img{
+width: 100%;
+}
+.travelmate{
+    border: 1px solid purple;
+}
+.moviemate span{
+    color:orange;
+}
+.moviehead{
+    font-size:21px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+#lionking img{
+    width:40%;
+}
+.bookmate img{
+    width:60%;
+}
+.bookmate a{
+    font-size: 20px;
+}
+#contact{
+    text-align:left;
+}
